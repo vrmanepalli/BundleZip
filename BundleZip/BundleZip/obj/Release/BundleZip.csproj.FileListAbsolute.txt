@@ -1,0 +1,14 @@
+I:\GITMASTER\BundleZip\BundleZip\bin\Release\BundleZip.exe
+I:\GITMASTER\BundleZip\BundleZip\bin\Release\BundleZip.pdb
+I:\GITMASTER\BundleZip\BundleZip\bin\Release\Ionic.Zip.dll
+I:\GITMASTER\BundleZip\BundleZip\obj\Release\BundleZip.csprojResolveAssemblyReference.cache
+I:\GITMASTER\BundleZip\BundleZip\obj\Release\BundleZip.exe
+I:\GITMASTER\BundleZip\BundleZip\obj\Release\BundleZip.pdb
+D:\projects\BundleZip\BundleZip\obj\Release\BundleZip.exe
+D:\projects\BundleZip\BundleZip\obj\Release\BundleZip.pdb
+C:\dazel_project\BundleZip\BundleZip\obj\Release\BundleZip.exe
+C:\dazel_project\BundleZip\BundleZip\obj\Release\BundleZip.pdb
+C:\dazel_project\BundleZip\BundleZip\bin\Release\BundleZip.exe
+C:\dazel_project\BundleZip\BundleZip\bin\Release\BundleZip.pdb
+C:\dazel_project\BundleZip\BundleZip\bin\Release\Ionic.Zip.dll
+C:\dazel_project\BundleZip\BundleZip\obj\Release\BundleZip.csprojResolveAssemblyReference.cache

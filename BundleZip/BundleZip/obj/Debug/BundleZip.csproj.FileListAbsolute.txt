@@ -1,0 +1,6 @@
+I:\GITMASTER\BundleZip\BundleZip\bin\Debug\BundleZip.exe
+I:\GITMASTER\BundleZip\BundleZip\bin\Debug\BundleZip.pdb
+I:\GITMASTER\BundleZip\BundleZip\bin\Debug\Ionic.Zip.dll
+I:\GITMASTER\BundleZip\BundleZip\obj\Debug\BundleZip.csprojResolveAssemblyReference.cache
+I:\GITMASTER\BundleZip\BundleZip\obj\Debug\BundleZip.exe
+I:\GITMASTER\BundleZip\BundleZip\obj\Debug\BundleZip.pdb

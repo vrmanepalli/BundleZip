@@ -1,0 +1,6 @@
+/Users/vmanep/Documents/Dazel/SharedFolder/BundleZip/BundleZip/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/vmanep/Documents/Dazel/SharedFolder/BundleZip/BundleZip/obj/Debug/BundleZip.exe
+/Users/vmanep/Documents/Dazel/SharedFolder/BundleZip/BundleZip/bin/Debug/Ionic.Zip.dll
+/Users/vmanep/Documents/Dazel/SharedFolder/BundleZip/BundleZip/bin/Debug/BundleZip.exe.mdb
+/Users/vmanep/Documents/Dazel/SharedFolder/BundleZip/BundleZip/bin/Debug/BundleZip.exe
+/Users/vmanep/Documents/Dazel/SharedFolder/BundleZip/BundleZip/obj/Debug/BundleZip.exe.mdb
